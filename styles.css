@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#favorite-song {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  margin: 20px;
+}
+
+#song-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+#song-link:hover {
+  text-decoration: underline;
+}
